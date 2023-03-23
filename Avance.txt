@@ -1,0 +1,13 @@
+GIT:
+git init
+git remote add origin URL:Github
+git status
+git add .
+git commit -m 'Mensaje del Commit'
+git push origin master
+
+Folder ------------------> Video
+3 - Quote Generator: 
+	14 - Quote Generator Project Overview
+	
+
