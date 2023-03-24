@@ -7,7 +7,6 @@ git commit -m 'Mensaje del Commit'
 git push origin master
 
 Folder ------------------> Video
-3 - Quote Generator: 
-	14 - Quote Generator Project Overview
-	
+4 - Infinity Scroll: 
+	35 - Responsive Layout
 
