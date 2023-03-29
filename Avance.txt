@@ -8,5 +8,5 @@ git push origin master
 
 Folder ------------------> Video
 5 - Picture In Picture: 
-	43 - Setting Up Our Project
+	45 - Adding Functionality With JavaScript
 
