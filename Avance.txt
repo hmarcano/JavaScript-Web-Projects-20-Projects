@@ -7,6 +7,5 @@ git commit -m 'Mensaje del Commit'
 git push origin master
 
 Folder ------------------> Video
-5 - Picture In Picture: 
-	45 - Adding Functionality With JavaScript
-
+7 - Light & Dark Mode: 
+	61 - Toggle Theme With JavaScript 2 
